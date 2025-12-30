@@ -5,7 +5,7 @@ Swift client for the NHL API.
 ## Installation
 
 ```swift
-.package(url: "https://github.com/username/nhl-api-swift", from: "0.9.0")
+.package(url: "https://github.com/sperano/nhl-api-swift", from: "0.9.0")
 ```
 
 ## Usage
